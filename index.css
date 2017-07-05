@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #444;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+main {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.header-container {
+  margin: 5rem 0;
+}
+
+.logo {
+  display: block;
+  margin: 15% auto 1rem;
+  width: 200px;
+  border-radius: 5%;
+}
+
+.title {
+  font-size: 7rem;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.desc {
+  font-size: 2rem;
+  font-weight: lighter;
+  margin: 1rem auto 0;
+  text-align: center;
+}
+
+.list {
+  font-weight: lighter;
+  text-align: center;
+}
